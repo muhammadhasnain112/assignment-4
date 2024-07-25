@@ -1,0 +1,129 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.header{
+
+    height: 75px;
+    background-color: rgba(36, 34, 54, 0.943);
+    
+}
+#coins{
+    /* height: 0px; */
+    /* width: 60px; */
+    padding-left: 150px;
+    font-size: 50px;
+}
+#heading{
+    font-weight: 700;
+    color: white;
+    font-size:larger;
+    padding-right: 150px;
+    
+}
+a{
+    text-decoration: none;
+    color: white;
+    
+}
+.padding{
+    padding-right: 40px;
+}
+.page{
+    background-color: rgb(53, 101, 109);
+    height: 350px;
+}
+.image{
+    height: 380px;
+    width: 800px;
+    margin-left: 150px;
+    border: 8px solid white;
+    box-shadow: 0px 0px 10px   black;
+    
+    
+}
+.text{
+    position:relative;
+            top: -50%;
+            left: 27%;
+            transform: translate(-50%, -50%);
+            color: white;
+            font-size: 15px;
+            font-weight: normal;
+            background-color: rgba(0, 0, 0, 0.5);
+            height: 200px;
+            width: 350px;
+            padding: 30px;
+            /* margin-right: 2000px; */
+
+}
+.best{
+font-size: 30px;
+}
+.src{
+    height: 130px;
+    width: 180px;
+    border: 10px solid white;
+    box-shadow: 0px 0px 5px black;
+    
+}
+#alt{
+    height: 550px;
+    /* background-color: aqua; */
+    
+}
+.lorem{
+    height: 220px;
+    width: 180px;
+    display: inline-block;
+    margin-right: 30px;
+    margin-top: 300px;
+    
+}
+#lorem{
+    margin-left: 230px;
+}
+.bold{
+    font-size: large;
+    font-weight: 650;
+    color:rgb(53, 101, 109) ;
+}
+.button{
+    background-color: greenyellow;
+    color: white;
+    border-radius: 5px;
+    float: right;
+    width: 70px;
+    height: 30px;
+    
+}
+#footer{
+    height: 350px;
+    width: 100%;
+    background-color: rgb(53, 101, 109);
+    display: inline-block;
+    margin-right: 30px;
+    margin-top: 300px;
+    
+
+
+}
+.span{
+    font-size: larger;
+
+}
+.container{
+    width: 200px;
+    height: 300px;
+display: inline-block;
+
+
+    
+}
+footer{
+    text-align: center;
+    height: 80px;
+    background-color: rgba(36, 34, 54, 0.943) ;
+    color: white;
+}
